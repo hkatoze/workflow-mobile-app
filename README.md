@@ -15,7 +15,7 @@ L'application mobile "Workflow Mobile App" est l'interface intuitive destinée a
 
 🌐 **Intégration**  
 
-L'application "Workflow Mobile App" s'intègre de manière transparente avec notre API et le panneau d'administration pour offrir une expérience utilisateur cohérente et efficace.
+L'application "Workflow Mobile App" s'intègre de manière transparente avec notre [API](https://github.com/hkatoze/workflowapi-node-js.git) et le [panneau d'administration](https://github.com/hkatoze/workflow-admin-panel.git) pour offrir une expérience utilisateur cohérente et efficace.
 
 🎁 **Démo**  
 Pour explorer l'interface et les fonctionnalités de notre application mobile, découvrez une démonstration en direct [ici](lien-vers-la-démo-en-ligne).
